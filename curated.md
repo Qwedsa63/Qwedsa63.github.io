@@ -9,7 +9,7 @@ permalink: /curated/
 - [Huge Trello Board Collection of Data Science Resources](https://trello.com/b/rbpEfMld/data-science)
 - [Diving Into Data Science Flipboard](https://flipboard.com/@thiakx/diving-into-data-science-5823ectuy)
 - [OLAP Operation in R](http://architects.dzone.com/articles/olap-operation-r)
-- [Journal of Statistical Software: Tidy data](http://www.jstatsoft.org/v59/i10/paper)
+- [Journal of Statistical Software: Tidy data](http://www.jsttsoft.org/v59/i10/paper)
 - [Verzani: simpleR – Using R for Introductory Statistics](http://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)
 - [Data Visualization packages](http://www.datavis.ca/R/)
 - [Visualization hints: plotting numeric data by groups](http://www.r-bloggers.com/visualization-series-insight-from-cleveland-and-tufte-on-plotting-numeric-data-by-groups/)
@@ -35,7 +35,7 @@ permalink: /curated/
 - [awesome R](https://github.com/qinwf/awesome-R) - A curated list of awesome R frameworks, packages and software. 
 - [awesome machine learning](https://github.com/josephmisiti/awesome-machine-learning#r) - A curated list of awesome Machine Learning frameworks, libraries and software. 
 - [Google's R Style Guide](https://google-styleguide.googlecode.com/svn/trunk/Rguide.xml)
-- [Tufte-style HTML in rmarkdown](http://sachsmc.github.io/tufterhandout/)
+- [Tufte-style HTML in rmarkdown](http://sachsmc.github.io/tufterhadout/)
 - [Creating an R Package](http://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
 - [R Packages (Hadley online book)](http://r-pkgs.had.co.nz/) - How to write your own R packages.
 - [Beautiful ggplot2 Cheatsheet](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
